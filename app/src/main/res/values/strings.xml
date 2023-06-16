@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Capstone Bangkit</string>
+    <string name="didnt_get_permission">Didn\'t get permission</string>
+    <string name="input_image_first">Input Your Image First!</string>
+</resources>
